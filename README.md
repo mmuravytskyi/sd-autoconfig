@@ -13,7 +13,7 @@ SDA dowiaduje się o pojawieniu się nowego urządzenia w sieci poprzez nasłuch
   * **Konfiguracja urządzenia** \
   Przygotowana konfiguracja jest wysyłana do przełącznika wykorzystując protokół Netconf. 
 
-[image]
+![alt text](https://github.com/mmuravytskyi/sd-autoconfig/blob/main/static/shceme-sdn.png "SDN")
 
 ### Założenia: 
   * Nowy przełącznik ma domyślnie skonfigurowany adres sterownika oraz włączony netconf;
